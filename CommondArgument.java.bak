@@ -17,6 +17,7 @@ class Commondargument
 		{
 			System.out.println("odd number" +a);
 		}
+		System.out.println("even number");
 		
 	}
 }
